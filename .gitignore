@@ -16,3 +16,12 @@ lib-cov/
 coverage.html
 .DS_Store
 .idea/*
+test/.idea/.name
+test/.idea/encodings.xml
+test/.idea/misc.xml
+test/.idea/modules.xml
+test/.idea/test.iml
+test/.idea/vcs.xml
+test/.idea/webResources.xml
+test/.idea/libraries/pomelo.xml
+test/.idea/scopes/scope_settings.xml
